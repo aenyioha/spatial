@@ -1,2 +1,2 @@
-# Spatial_Intelligence
+# Spatial Intelligence
 Spatial Intelligence
